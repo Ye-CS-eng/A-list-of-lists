@@ -18,4 +18,4 @@
 17. [awesome-casestudy](https://github.com/luruke/awesome-casestudy) (📕 Curated list of technical case studies about front-end development)
 18. [awesome-angular](https://github.com/PatrickJS/awesome-angular) (📄 A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company)
 19. [Free hosting providers for web applications](https://gist.github.com/picwellwisher12pk/80bc71b7719b2c06115b84c052ffd6b7) 
-[Awesome Python](https://github.com/vinta/awesome-python) (😎 For Pythong an enthusiast)
+20. [Awesome Python](https://github.com/vinta/awesome-python) (😎 For Pythong an enthusiast)
